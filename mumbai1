@@ -1,0 +1,13 @@
+#learning should be part of life journey
+#first python code
+mylist=[]
+print("initial list: ")
+print(mylist)
+#apend item to the list
+mylist.append(13)
+mylist.insert(0,'linux,)
+mylist.extend([10,'aws',25])
+print("list after adding elements")
+print(mylist)
+
+python is mandatory. container technology and iaac will fetch you good remuneration
